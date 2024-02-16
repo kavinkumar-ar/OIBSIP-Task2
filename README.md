@@ -17,6 +17,6 @@ In this internship I was offered three levels with having 3 tasks respectively. 
 ## Task2 - Tribute Page
 
 A tribute page created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://devvsakib.github.io/oasis-infobyte/Task2)
+[Click Here for Live Demo](https://kavinkumar-ar.github.io/OIBSIP-Task2/)
 
 # Thank You! :)
