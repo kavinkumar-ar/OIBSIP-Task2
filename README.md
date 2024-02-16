@@ -12,7 +12,7 @@ In this internship I was offered three levels with having 3 tasks respectively. 
 
 ## Languages Used:-
 
-- HTML, CSS & JavaScript
+- HTML, CSS 
 
 ## Task2 - Tribute Page
 
