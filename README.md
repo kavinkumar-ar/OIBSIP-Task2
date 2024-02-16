@@ -1,4 +1,4 @@
-# OIBSIP - Task2
+# OIBSIP - Task 2
 
 # Web Developement & Design Internship by [Oasis Infobytes](https://oasisinfobyte.com)
 
@@ -14,7 +14,7 @@ In this internship I was offered three levels with having 3 tasks respectively. 
 
 - HTML, CSS 
 
-## Task2 - Tribute Page
+## Task 2 - Tribute Page
 
 A tribute page to Ratan Tata created under the virtual internship program of Oasis Infobyte. <br>
 [Click Here for Live Demo Page](https://kavinkumar-ar.github.io/OIBSIP-Task2/)
